@@ -4,10 +4,10 @@
 
 A React Native Navigation Solution
 
-[Why Screen Corsair? Motivations!](#why-screen-corsair-motivations)
-[Getting Started with Screen Corsair](#getting-started-with-screen-corsair)
-[Creating our Screens](#creating-our-screens)
-[The Special One](#the-special-one)
+1. [Why Screen Corsair? Motivations!](#why-screen-corsair-motivations)
+2. [Getting Started with Screen Corsair](#getting-started-with-screen-corsair)
+3. [Creating our Screens](#creating-our-screens)
+4. [The Special One](#the-special-one)
 
 ### Why Screen Corsair? Motivations!
 

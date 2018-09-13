@@ -15,7 +15,7 @@ I came up with this solution because I needed a simple tabbed screen routing wit
 
 Obviously there are lots of Routing/Nativation libraries out there and you could choose any of them. This is just, in my opinion, the simplest untill now.
 
-### Getting Started with Screen Corsair
+### Getting Started with Screen Corsair
 
 To get started with **Screen Corsair** you have to install it as a dependency of your proyect with `yarn add screen-corsair` or with npm, it won't matter.
 

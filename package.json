@@ -1,6 +1,6 @@
 {
   "name": "screen-corsair",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Navigation for React Native",
   "main": "lib/index",
   "scripts": {},
